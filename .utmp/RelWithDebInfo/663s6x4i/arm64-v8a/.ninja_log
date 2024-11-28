@@ -1,0 +1,12 @@
+# ninja log v5
+45	15565	7540709618994511	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8aa7e01f9c438b12
+22	15620	7540709619064325	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7747908baa016f7d
+48	15625	7540709619089124	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6dfd4c1c251ab009
+202	15629	7540709619054352	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	73bcfc8e567d9bcd
+198	15630	7540709619034395	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6f62fc4fbb8bfa8b
+194	15631	7540709618964597	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4fb99be007a0aecd
+15621	17142	7540709645812931	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c15aee301040afbe
+15625	17787	7540709653643583	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fbb67f89013cb327
+15617	18484	7540709660553252	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a90ec2808bd2ff95
+18484	20260	7540709677566371	D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/663s6x4i/obj/arm64-v8a/libgame.so	7aec51bb7fa39346
+17788	20261	7540709677424882	D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/663s6x4i/obj/arm64-v8a/libswappywrapper.so	a115a9b7ea8e224a

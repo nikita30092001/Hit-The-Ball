@@ -1,0 +1,8 @@
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Programming/Unity/Games/Clickers/FirstClicker/Hit the ball/.utmp/RelWithDebInfo/663s6x4i/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
